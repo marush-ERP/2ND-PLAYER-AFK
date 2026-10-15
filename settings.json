@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ZeusSMPOfficial",
+    "username": "Dr. Chinku",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ZeusSMPOfficial.aternos.me",
-    "port": 21736,
+    "ip": "7guysbest.aternos.me",
+    "port": 15764,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Our Server Is Always 24/7 Online",
-        "Subscribe To ZujjajPlaysOfficial",
-        "Join This Server Discord: https://discord.gg/mepHNcgbaR"
+        "KAIZEN bhai aapki bhund sahi h ab? dard to nahi hora?",
+        "apka operation hone wala h! jaldi se 100K rupe jama krwado",
+        "apni GF ko btado"
       ]
     },
     "chat-log": true,
